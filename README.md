@@ -9,7 +9,7 @@ Files:
 
 MontyHallProblem_fig2a.m : Fig 2a – time-evolution of concentration - simulation and analytical result (always‑switch)
 
-MontyHallProblem_fig2b.m : Fig 2b – time-evolution of concentration - simulation (always-stay)
+MontyHallProblem_fig2b.m : Fig 2b – time-evolution of concentration - simulation and analytical result (always-stay)
 
 MontyHallProblem_fig3a.m : Fig 3a – win concentration vs k_sw at k_st=1 - simulation and analytical result
 
