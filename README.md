@@ -22,5 +22,5 @@ MATLAB (R2022a+), Symbolic Math Toolbox
 
 License: MIT
 
-Contact: oliver.steinbock@fsu.edu
+Contact: osteinbock@fsu.edu
 
